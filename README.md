@@ -33,7 +33,7 @@ portfolio/
 
 
 ---
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -58,7 +58,7 @@ Home (Hero)	Projects Section
  Contact
 
 If you’d like to get in touch, feel free to connect via the contact form on the site or reach me at:
-Email: nfatideen@gmail.com
+Email: nfatimadeen@gmail.com
 
 LinkedIn: Your Profile
 
